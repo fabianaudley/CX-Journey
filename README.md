@@ -1,4 +1,4 @@
 # CX-Journey
-CX Journey Work - Map and Blueprint Examples_
+CX Journey Work - Map and Blueprint Examples
 
 Project: Changing the automotive purchase and after sales process
